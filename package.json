@@ -1,0 +1,20 @@
+{
+  "name": "cheetahmail",
+  "version": "0.0.0",
+  "description": "Cheetmail API adaptor for node",
+  "main": "lib/cheetahmail/index.js",
+  "scripts": {
+    "test": "pliers test -a"
+  },
+  "repository": "",
+  "author": "Tom Gallacher <tomgallacher23@gmail.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.8.2",
+    "should": "~1.2.2"
+  },
+  "dependencies": {
+    "request": "~2.16.6",
+    "con.figure": "0.0.0"
+  }
+}
