@@ -6,6 +6,9 @@
   "scripts": {
     "test": "pliers test -a"
   },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
   "repository": "",
   "author": "Tom Gallacher <tomgallacher23@gmail.com>",
   "license": "BSD",
