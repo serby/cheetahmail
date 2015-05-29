@@ -14,7 +14,7 @@
     "should": "~1.2.2"
   },
   "dependencies": {
-    "request": "~2.16.6",
-    "con.figure": "0.0.0"
+    "con.figure": "0.0.0",
+    "request": "^2.56.0"
   }
 }
