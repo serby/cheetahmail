@@ -1,6 +1,6 @@
 {
   "name": "cheetahmail",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cheetmail API adaptor for node",
   "main": "lib/cheetahmail/index.js",
   "scripts": {
